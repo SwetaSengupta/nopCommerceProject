@@ -68,9 +68,9 @@ Run.bat
 
 ### Read common values from ini file
 
-1 Add "config.ini" file in "Configurations" folder
-2.Create "readProperties.py" utility file under utilities package to read common data.
-3.Replace hard coded values in Login test case.
+1. Add "config.ini" file in "Configurations" folder
+2. Create "readProperties.py" utility file under utilities package to read common data.
+3. Replace hard coded values in Login test case.
 
 ### Adding logs to test case
 1. Add customerLogger.py under utilities package.
@@ -81,17 +81,19 @@ Run.bat
 2. Pass browser name as argument in command line
 
 ### To Run tests on desired browser
-pytest -s -v testCases/test_login.py --browser chrome
-pytest -s -v testCases/test_login.py --browser firefox
+``pytest -s -v testCases/test_login.py --browser chrome``
+
+``pytest -s -v testCases/test_login.py --browser firefox``
 
 ### To Run tests parallel
-pytest -s -v -n=3 testCases/test_login.py --browser chrome
-pytest -s -v -n=3 testCases/test_login.py --browser firefox
+``pytest -s -v -n=3 testCases/test_login.py --browser chrome``
+
+``pytest -s -v -n=3 testCases/test_login.py --browser firefox``
 
 ### Generate pytest HTML Reports
 1. Update conftest.py with pytest hooks
 2. To Generate HTML report run below command:
-pytest -s -v -n=3 --html=Reports\report.html testCases/test_login.py -- browser chrome
+``pytest -s -v -n=3 --html=Reports\report.html testCases/test_login.py -- browser chrome``
 
 
 
