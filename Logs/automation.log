@@ -1,0 +1,77 @@
+11/07/2021 06:05:23 PM: INFO: 
+
+11/07/2021 06:05:23 PM: INFO: ====== WebDriver manager ======
+11/07/2021 06:05:23 PM: INFO: Current google-chrome version is 95.0.4638
+11/07/2021 06:05:23 PM: INFO: Get LATEST driver version for 95.0.4638
+11/07/2021 06:05:24 PM: INFO: There is no [win32] chromedriver for browser 95.0.4638 in cache
+11/07/2021 06:05:24 PM: INFO: Get LATEST driver version for 95.0.4638
+11/07/2021 06:05:24 PM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/95.0.4638.54/chromedriver_win32.zip
+11/07/2021 06:05:25 PM: INFO: Driver has been saved in cache [C:\Users\sseng\.wdm\drivers\chromedriver\win32\95.0.4638.54]
+11/07/2021 06:05:27 PM: INFO: *************** Test_001_Login *****************
+11/07/2021 06:05:27 PM: INFO: ****Started Home page title test ****
+11/07/2021 06:05:27 PM: INFO: ****Opening URL****
+11/07/2021 06:05:28 PM: INFO: **** Home page title test passed ****
+11/07/2021 06:05:29 PM: INFO: 
+
+11/07/2021 06:05:29 PM: INFO: ====== WebDriver manager ======
+11/07/2021 06:05:29 PM: INFO: Current google-chrome version is 95.0.4638
+11/07/2021 06:05:29 PM: INFO: Get LATEST driver version for 95.0.4638
+11/07/2021 06:05:29 PM: INFO: Driver [C:\Users\sseng\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+11/07/2021 06:05:30 PM: INFO: ****Started Login Test****
+11/07/2021 06:10:44 PM: INFO: 
+
+11/07/2021 06:10:44 PM: INFO: ====== WebDriver manager ======
+11/07/2021 06:10:44 PM: INFO: Current google-chrome version is 95.0.4638
+11/07/2021 06:10:44 PM: INFO: Get LATEST driver version for 95.0.4638
+11/07/2021 06:10:45 PM: INFO: Driver [C:\Users\sseng\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+11/07/2021 06:10:46 PM: INFO: *************** Test_001_Login *****************
+11/07/2021 06:10:46 PM: INFO: ****Started Home page title test ****
+11/07/2021 06:10:46 PM: INFO: ****Opening URL****
+11/07/2021 06:10:48 PM: INFO: **** Home page title test passed ****
+11/07/2021 06:10:48 PM: INFO: 
+
+11/07/2021 06:10:48 PM: INFO: ====== WebDriver manager ======
+11/07/2021 06:10:48 PM: INFO: Current google-chrome version is 95.0.4638
+11/07/2021 06:10:48 PM: INFO: Get LATEST driver version for 95.0.4638
+11/07/2021 06:10:48 PM: INFO: Driver [C:\Users\sseng\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+11/07/2021 06:10:49 PM: INFO: ****Started Login Test****
+11/07/2021 06:10:53 PM: INFO: ****Login test passed ****
+11/08/2021 09:23:36 AM: INFO: 
+
+11/08/2021 09:23:36 AM: INFO: ====== WebDriver manager ======
+11/08/2021 09:23:36 AM: INFO: Current google-chrome version is 95.0.4638
+11/08/2021 09:23:36 AM: INFO: Get LATEST driver version for 95.0.4638
+11/08/2021 09:23:36 AM: INFO: There is no [win32] chromedriver for browser 95.0.4638 in cache
+11/08/2021 09:23:36 AM: INFO: Get LATEST driver version for 95.0.4638
+11/08/2021 09:23:36 AM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/95.0.4638.69/chromedriver_win32.zip
+11/08/2021 09:23:37 AM: INFO: Driver has been saved in cache [C:\Users\sseng\.wdm\drivers\chromedriver\win32\95.0.4638.69]
+11/08/2021 09:23:40 AM: INFO: *************** Test_001_Login *****************
+11/08/2021 09:23:40 AM: INFO: ****Started Home page title test ****
+11/08/2021 09:23:40 AM: INFO: ****Opening URL****
+11/08/2021 09:23:42 AM: INFO: **** Home page title test passed ****
+11/08/2021 09:23:42 AM: INFO: 
+
+11/08/2021 09:23:42 AM: INFO: ====== WebDriver manager ======
+11/08/2021 09:23:42 AM: INFO: Current google-chrome version is 95.0.4638
+11/08/2021 09:23:42 AM: INFO: Get LATEST driver version for 95.0.4638
+11/08/2021 09:23:42 AM: INFO: Driver [C:\Users\sseng\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/08/2021 09:23:43 AM: INFO: ****Started Login Test****
+11/08/2021 09:23:47 AM: INFO: ****Login test passed ****
+11/08/2021 09:26:13 AM: INFO: 
+
+11/08/2021 09:26:13 AM: INFO: ====== WebDriver manager ======
+11/08/2021 09:26:13 AM: INFO: Current google-chrome version is 95.0.4638
+11/08/2021 09:26:13 AM: INFO: Get LATEST driver version for 95.0.4638
+11/08/2021 09:26:13 AM: INFO: Driver [C:\Users\sseng\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/08/2021 09:26:15 AM: INFO: *************** Test_001_Login *****************
+11/08/2021 09:26:15 AM: INFO: ****Started Home page title test ****
+11/08/2021 09:26:15 AM: INFO: ****Opening URL****
+11/08/2021 09:26:17 AM: INFO: **** Home page title test passed ****
+11/08/2021 09:26:17 AM: INFO: 
+
+11/08/2021 09:26:17 AM: INFO: ====== WebDriver manager ======
+11/08/2021 09:26:17 AM: INFO: Current google-chrome version is 95.0.4638
+11/08/2021 09:26:17 AM: INFO: Get LATEST driver version for 95.0.4638
+11/08/2021 09:26:17 AM: INFO: Driver [C:\Users\sseng\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/08/2021 09:26:18 AM: INFO: ****Started Login Test****
+11/08/2021 09:26:23 AM: INFO: ****Login test passed ****
